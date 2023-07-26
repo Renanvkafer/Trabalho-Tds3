@@ -1,0 +1,13 @@
+{
+  "users": [
+    
+  ],
+  "restaurant": [
+    {
+      "name": "beal",
+      "address": "rua 20",
+      "contact": "321",
+      "id": 1
+    }
+  ]
+}
